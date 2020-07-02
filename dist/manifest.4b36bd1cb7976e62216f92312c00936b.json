@@ -1,0 +1,43 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.50a2c6d2e5e5a729b3ed23b83b4df415.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.31256d1e834e8b831ecaa0c232ea9f35.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.58d52f68c37592e34e380a37312f9e86.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.fc922f309d3309af3826318909dbd2b6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.6c7c5fc7ddd8f3bd7f5086d4d8500c1d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.0a0e0c534dcc9c6d8a96b6855531f897.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Football Catalogue",
+  "short_name": "Football",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "gcm_sender_id": "258852538800",
+  "description": "Show Football Information",
+  "background_color": "#304266",
+  "theme_color": "#304266"
+}
